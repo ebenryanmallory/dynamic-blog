@@ -6,6 +6,10 @@ postFeaturedImage: /images/uploads/papyrus.png
 excerpt: >-
   Congratulations to my friend/colleague DJ from UC Berkeley lab as he continues
   his research work for Hyndai Motors.
+categories:
+  - category: Inspiration
+meta:
+  canonicalLink: /awesome-projects
 ---
 Congratulations to my friend/colleague DJ from UC Berkeley lab as he continues his research work for Hyndai Motors.
 
