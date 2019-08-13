@@ -2,6 +2,7 @@
 title: Sponsorship
 status: Published
 date: '2019-08-13'
+postFeaturedImage: /images/uploads/papyrus.png
 excerpt: >-
   We are currently seeking sponsorship from a 3D printing company. If you have
   interest in promoting your products by demonstrating some awesome things they
