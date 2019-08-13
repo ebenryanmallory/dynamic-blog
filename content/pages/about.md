@@ -12,7 +12,7 @@ section1: >-
   robotic exoskeletons. 
 
 
-  <https://www.patreon.com/user?u=22638294>
+  <https://www.patreon.com/dynamicmomentum>
 
 
   The name Dynamic Momentum comes from some of the research projects we worked
@@ -22,8 +22,6 @@ section1: >-
   mechanisms, or just using gravity in a way that it would accomplish the same
   force trajectory and movement that was being accomplished by an active,
   motorized system. 
-
-
 
 
   The purpose of this website is not to become a company or a nonprofit, but
@@ -38,6 +36,6 @@ section1: >-
   alternate business model](/business-model)
 section2: >-
   Sound interesting? You can join me on this journey. [See
-  how](https://www.patreon.com/user?u=22638294)
+  how](https://www.patreon.com/dynamicmomentum)
 ---
 
