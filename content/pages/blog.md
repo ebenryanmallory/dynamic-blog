@@ -1,4 +1,6 @@
 ---
 title: Blog
-featuredImage: /images/uploads/ng-32703.jpg
+featuredImage: /images/uploads/papyrus.png
+subtitle: Latest from news stories
 ---
+
