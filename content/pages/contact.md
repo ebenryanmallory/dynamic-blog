@@ -1,18 +1,10 @@
 ---
-title: Contact us
-subtitle: ''
-featuredImage: '/images/uploads/mark-chang-74-3.jpg'
-address: 404 James St, Burleigh Heads QLD 4220
-phone: 0987 123 456
-email: example@example.com
+title: Contact me
+featuredImage: /images/uploads/papyrus.png
+subtitle: Contact form
+address: '17 Paloma Heights, Apt. #104'
+phone: '9704458089'
+email: ebenryanmallory@gmail.com
 ---
 
-# Example contact form
-
-This form is setup to use Netlify's form handling:
-
-* the form action is set to the current absolute url: `action: '/contact/'`
-* a name attribute is sent with the form's data `'form-name': 'Contact'`
-* netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+Individuals or businesses seeking partnership opportunities please get in contact with me to discuss how we can join forces.
