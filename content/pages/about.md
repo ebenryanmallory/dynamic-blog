@@ -33,7 +33,7 @@ section1: >-
   environment more closely aligned with my goals of creating usable information
   and solutions that have a real impact on users, as opposed to having those
   goals be at odds with making a sustainable business model. [Learn about an
-  alternate business model](/business-model)
+  alternate business model](/blog/business-model/)
 section2: >-
   Sound interesting? You can join me on this journey. [See
   how](https://www.patreon.com/dynamicmomentum)
