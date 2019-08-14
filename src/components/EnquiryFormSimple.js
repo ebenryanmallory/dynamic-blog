@@ -40,11 +40,12 @@ export default ({
         required
       >
         <option disabled hidden>
-          Type of Enquiry
+          Who are you?
         </option>
-        <option>Need to know more</option>
-        <option>Found a bug</option>
-        <option>Want to say hello</option>
+        <option>Individual seeking partnership</option>
+        <option>Individual seeking product</option>
+        <option>Business seeking partnership</option>
+        <option>Business seeking product</option>
       </select>
     </label>
     <label className='EnquiryForm--Label'>
