@@ -1,6 +1,6 @@
 ---
 title: Dynamic Blog
-featuredImage: /images/uploads/papyrus.png
+featuredImage: /images/uploads/footsteps.jpg
 subtitle: Welcome to the Dynamic Momentum blog
 meta:
   title: ''
