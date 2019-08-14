@@ -6,6 +6,8 @@ excerpt: >-
   By using off the shelf braces designed to work for people experiencing post
   surgery recovery, we build a platform that can be used to build some
   groundwork of conformity.
+categories:
+  - category: Exoskeleton hardware platform
 meta:
   canonicalLink: /exoskeleton-hardware-platform
   description: Creating an exoskeleton hardware platform
