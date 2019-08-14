@@ -1,6 +1,6 @@
 ---
 title: Blog
-featuredImage: /images/uploads/papyrus.png
+featuredImage: /images/uploads/blue-legos.jpg
 subtitle: Latest from news stories
 ---
 
