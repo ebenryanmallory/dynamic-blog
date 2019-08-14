@@ -2,6 +2,7 @@
 title: Creating an exoskeleton hardware platform
 status: Published
 date: '2019-08-13'
+postFeaturedImage: /images/uploads/blue-legos.jpg
 excerpt: >-
   By using off the shelf braces designed to work for people experiencing post
   surgery recovery, we build a platform that can be used to build some
