@@ -1,6 +1,6 @@
 ---
 title: About
-featuredImage: /images/uploads/papyrus.png
+featuredImage: /images/uploads/blue-pattern.jpg
 subtitle: About me page
 section1: >-
   My name is Eben Mallory, and the motivation for Dynamic Momentum comes from
