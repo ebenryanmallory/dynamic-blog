@@ -4,7 +4,12 @@ status: Published
 date: '2019-08-13'
 postFeaturedImage: /images/uploads/blue-pattern.jpg
 excerpt: A collection of links to resources
-categories: []
+categories:
+  - category: Inspiration
+meta:
+  canonicalLink: /resources
+  description: Links to interesting resources
+  title: Resources
 ---
 Product for controlling hardware without upper body movement:
 
