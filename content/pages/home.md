@@ -1,7 +1,7 @@
 ---
-title: Hello World!
+title: Dynamic Blog
 featuredImage: /images/uploads/papyrus.png
-subtitle: This is the home page subtitle
+subtitle: Welcome to the Dynamic Momentum blog
 meta:
   title: ''
 ---
