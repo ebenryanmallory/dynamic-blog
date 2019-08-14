@@ -8,6 +8,6 @@ excerpt: >-
   promoting your products by demonstrating some awesome things they can make,
   please contact me.
 categories:
-  - category: News
+  - category: Business Model
 ---
 I am currently seeking sponsorship from a 3D printing company. If you have interest in promoting your products by demonstrating some awesome things they can make, please contact me.
