@@ -2,7 +2,7 @@
 title: What is a medical exoskeleton?
 status: Published
 date: '2019-08-18'
-postFeaturedImage: /images/uploads/papyrus.png
+postFeaturedImage: /images/uploads/aare.svg
 excerpt: Overview of companies and products making medical exoskeletons.
 categories:
   - category: FAQ
