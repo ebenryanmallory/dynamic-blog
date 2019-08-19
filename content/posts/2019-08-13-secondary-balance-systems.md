@@ -2,7 +2,7 @@
 title: Secondary balance systems
 status: Published
 date: '2019-08-13'
-postFeaturedImage: /images/uploads/logo.svg
+postFeaturedImage: /images/uploads/hinterrhein.svg
 excerpt: >-
   Standard crutch tips can be interfaced either with the foot plate above the
   ankle and be activate by gravity, or interfaced to the additional exo balance
