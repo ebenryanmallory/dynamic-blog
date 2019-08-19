@@ -2,7 +2,7 @@
 title: 'Medical exoskeleton myths, disinformation, and epically optimistic future'
 status: Published
 date: '2019-08-13'
-postFeaturedImage: /images/uploads/papyrus.png
+postFeaturedImage: /images/uploads/hinterrhein.svg
 excerpt: >-
   Medical exoskeleton myths, disinformation, and epically optimistic future - I
   felt I needed to clarify the current state of exoskeleton technology in the
