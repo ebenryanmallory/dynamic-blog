@@ -2,7 +2,7 @@
 title: What is an industrial exoskeleton?
 status: Published
 date: '2019-08-18'
-postFeaturedImage: /images/uploads/papyrus.png
+postFeaturedImage: /images/uploads/aare-compressor.png
 excerpt: Industrial exoskeletons are just beginning to take off and gain popularity.
 categories:
   - category: FAQ
