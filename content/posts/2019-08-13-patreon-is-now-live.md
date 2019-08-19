@@ -2,7 +2,7 @@
 title: Patreon is now live!
 status: Published
 date: '2019-08-13'
-postFeaturedImage: /images/uploads/papyrus.png
+postFeaturedImage: /images/uploads/inn.svg
 excerpt: My patreon page is now live!
 categories:
   - category: Patreon
