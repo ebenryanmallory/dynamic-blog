@@ -2,10 +2,10 @@
 title: Instructions for integrating product software
 status: Published
 date: '2019-08-13'
-postFeaturedImage: /images/uploads/logo.svg
+postFeaturedImage: /images/uploads/oreti.svg
 excerpt: Instructions for integrating product software
 categories:
-  - category: Exoskeleton hardware platform
+  - category: Instructional
 meta:
   canonicalLink: /product-software-platform
   description: Product software platform
