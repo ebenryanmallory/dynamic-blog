@@ -2,7 +2,7 @@
 title: Awesome Projects
 status: Published
 date: '2019-08-13'
-postFeaturedImage: /images/uploads/papyrus.png
+postFeaturedImage: /images/uploads/mataura.svg
 excerpt: >-
   Congratulations to my friend/colleague DJ from UC Berkeley lab as he continues
   his research work for Hyndai Motors.
