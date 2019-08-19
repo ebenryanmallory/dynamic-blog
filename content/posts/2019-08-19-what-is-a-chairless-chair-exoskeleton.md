@@ -2,7 +2,7 @@
 title: What is a chairless chair exoskeleton?
 status: Published
 date: '2019-08-19'
-postFeaturedImage: /images/uploads/papyrus.png
+postFeaturedImage: /images/uploads/aare.svg
 excerpt: >-
   Newest technology in the industrial worker exoskeleton sector aimed at a broad
   audience.
