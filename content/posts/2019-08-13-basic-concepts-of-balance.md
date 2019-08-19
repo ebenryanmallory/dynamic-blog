@@ -2,7 +2,7 @@
 title: Basic concepts of balance
 status: Published
 date: '2019-08-13'
-postFeaturedImage: /images/uploads/fks-1000-bk_lr.jpg
+postFeaturedImage: /images/uploads/hinterrhein.svg
 excerpt: 'Current prototype version of adding balance to an independent brace system:'
 categories:
   - category: Balance
