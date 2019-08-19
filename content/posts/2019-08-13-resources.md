@@ -2,7 +2,7 @@
 title: Resources
 status: Published
 date: '2019-08-13'
-postFeaturedImage: /images/uploads/blue-pattern.jpg
+postFeaturedImage: /images/uploads/linth.svg
 excerpt: A collection of links to resources
 categories:
   - category: Inspiration
