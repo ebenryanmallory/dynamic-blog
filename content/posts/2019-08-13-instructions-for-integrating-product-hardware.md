@@ -2,10 +2,10 @@
 title: Instructions for integrating product hardware
 status: Published
 date: '2019-08-13'
-postFeaturedImage: /images/uploads/logo.svg
+postFeaturedImage: /images/uploads/oreti.svg
 excerpt: Instructions for integrating product hardware
 categories:
-  - category: Exoskeleton hardware platform
+  - category: Instructional
 meta:
   canonicalLink: /open-source-hardware-system
   description: Open source hardware system
