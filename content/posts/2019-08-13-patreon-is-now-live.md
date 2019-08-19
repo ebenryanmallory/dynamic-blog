@@ -5,7 +5,7 @@ date: '2019-08-13'
 postFeaturedImage: /images/uploads/inn.svg
 excerpt: My patreon page is now live!
 categories:
-  - category: Patreon
+  - category: Business Model
 meta:
   canonicalLink: /patreon
   description: Patreon
