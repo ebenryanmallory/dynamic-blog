@@ -2,7 +2,7 @@
 title: Business Model
 status: Published
 date: '2019-08-13'
-postFeaturedImage: /images/uploads/logo.svg
+postFeaturedImage: /images/uploads/inn.svg
 excerpt: >-
   By providing and information base open to anyone to use, I plan to bring the
   most benefit to end users possible at no cost to them. This approach negates
