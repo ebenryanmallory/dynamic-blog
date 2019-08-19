@@ -2,7 +2,7 @@
 title: Open source wearable robotics
 status: Published
 date: '2019-08-13'
-postFeaturedImage: /images/uploads/papyrus.png
+postFeaturedImage: /images/uploads/hinterrhein.svg
 excerpt: >-
   Approaching hardware development especially in the area of IOT is gaining
   popularity and many concepts from software development can be used for
