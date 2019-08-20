@@ -7,6 +7,8 @@ excerpt: >-
   Newer technology has come along that replaces this type of bracing with a
   premise of offloading the tasks of movement to a robotic system with actuators
   for people with muscle impairment.
+categories:
+  - category: Exoskeleton hardware platform
 meta:
   canonicalLink: /bracing-exoskeleton-landscape
   description: Bracing & Exoskeleton landscape
