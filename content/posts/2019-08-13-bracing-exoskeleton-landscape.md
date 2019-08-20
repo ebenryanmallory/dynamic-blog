@@ -2,7 +2,7 @@
 title: Bracing & Exoskeleton landscape
 status: Published
 date: '2019-08-13'
-postFeaturedImage: /images/uploads/papyrus.png
+postFeaturedImage: /images/uploads/hinterrhein.svg
 excerpt: >-
   Newer technology has come along that replaces this type of bracing with a
   premise of offloading the tasks of movement to a robotic system with actuators
