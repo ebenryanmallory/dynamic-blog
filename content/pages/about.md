@@ -1,6 +1,6 @@
 ---
 title: About
-featuredImage: /images/uploads/blue-pattern.jpg
+featuredImage: /images/uploads/waiau.svg
 subtitle: About me page
 section1: >-
   My name is Eben Mallory, and the motivation for Dynamic Momentum comes from
