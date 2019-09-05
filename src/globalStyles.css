@@ -13,6 +13,10 @@
   --borderRadius: 3px;
 }
 
+::selection {
+  background: #FFEA00;
+}
+
 html {
   box-sizing: border-box;
   font-size: 62.5%;
