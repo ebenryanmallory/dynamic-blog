@@ -24,13 +24,13 @@ In addition, by providing educational resources and access to DIY projects, user
 
 As a final step, optional (or sometimes necessary) parts can sometimes be an opportunity for me to work on creating, and then charge for those more difficult pieces of projects to make them come together and remain simple and manageable. 
 
-<hr />
+___
 
 ## The challenge:
 
 When creating a startup, it is important to get funding and sometimes businesses can focus on getting funding instead of making a product that actually works. The premise here is that the funding will allow the research necessary to create the end product. While this type of fundraising helps the business side, it hurts the end user of the product. This problem becomes even more apparent in certain industries such as medical treatments in a hospital system where patients may not even need to ultimately benefit from the treatment, but a company can still sell the product or treatment through to health care providers. 
 
-<hr />
+___
 
 ## The solution:
 
@@ -38,4 +38,4 @@ I am adopting an approach long embraced by the software industry: open source. O
 
 This approach negates any conflict of interest coming from desiring to make money to sustain product development and has the highest positive impact at the lowest cost for end users. 
 
-<hr />
+___
