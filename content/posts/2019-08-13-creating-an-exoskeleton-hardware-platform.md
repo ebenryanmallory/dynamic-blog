@@ -18,7 +18,7 @@ meta:
 
 While current exoskeletons focus on offsetting physical momentum loads onto motors, prioritizing goals requires these devices to focus on balance. This isn't a scientific conclusion and lacks evidence and research to back up my opinion on this topic, but as an end user I have worked off of this assumption to create something that I had a purely self serving desire of putting to actual use.
 
-<hr />
+___
 
 ## A quick overview
 
@@ -30,10 +30,10 @@ The leg bracing system is heavily modified and uses off the shelf skateboard bin
 
 ![Xjado skate bindings](/images/uploads/xsjado.jpg)
 
-<hr />
+___
 
 ## Next up:
 
 From this building block, we can then implement a prototype, work in progress balancing system. It can be implemented as a DIY project and most of the parts can be bought online. The purpose of this open source documentation is how to implement this addon. As a prototype version of this process, the information on how to do this will change and become updated (with possible breaking changes, i.e. using completely different hardware) in the future, much like a software library or framework. 
 
-<hr />
+___
