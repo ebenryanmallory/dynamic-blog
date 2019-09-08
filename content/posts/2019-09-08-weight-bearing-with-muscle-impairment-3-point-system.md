@@ -2,6 +2,7 @@
 title: Weight bearing with muscle impairment - 3 point system
 status: Published
 date: '2019-09-08'
+postFeaturedImage: /images/uploads/vorderrhein.svg
 excerpt: Weight bearing with muscle impairment - 3 point system
 ---
 Any patient with a medical condition which affect muscle strength either in a severe manner or makes it impossible for the patient to have any muscle control or stability at all can still use a standing device or similar mechanism to bear weight through their lower body using a 3 point system. Exceptions to this are if the patient has severe spasticity or lacks flexibility of full range of motion for any reason.
