@@ -2,6 +2,7 @@
 title: Where do I fit in to this vast landscape?
 status: Published
 date: '2019-09-08'
+postFeaturedImage: /images/uploads/rangitikei.svg
 excerpt: Overview on how one small but mighty website actually can make a difference.
 categories:
   - category: Business Model
