@@ -4,6 +4,8 @@ status: Published
 date: '2019-09-08'
 postFeaturedImage: /images/uploads/vorderrhein.svg
 excerpt: Troubleshooting common problems
+categories:
+  - category: Instructional
 ---
 When attempting to use a standing device, or a bracing system, or a wearable device based on these concepts many factors can come up to impede balance and stability which make it difficult to use or adjust to at first. From my own personal experience I can say that the expected result (not the exception) is that the patient will have so many different factors working against them that the first attempt will almost always fail. Again, this is expected and it just takes time to work through the problems and optimize as much as possible and keep attempting to get more stabilization and balance.
 
