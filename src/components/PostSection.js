@@ -46,8 +46,8 @@ class PostSection extends React.Component {
           )}
           {showLoadMore &&
             visiblePosts.length < posts.length && (
-            <div className='taCenter'>
-              <button className='button' onClick={this.increaseLimit}>
+            <div className='text-center'>
+              <button className='btn' onClick={this.increaseLimit}>
                 {loadMoreTitle}
               </button>
             </div>
