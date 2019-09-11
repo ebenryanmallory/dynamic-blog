@@ -1,14 +1,11 @@
 import React, { Component, Fragment } from 'react'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import Helmet from 'react-helmet'
-
 import ScrollToTop from './components/ScrollToTop'
 import Meta from './components/Meta'
-import Home from './views/Home'
 import About from './views/About'
 import Blog from './views/Blog'
 import SinglePost from './views/SinglePost'
-import Contact from './views/Contact'
 import NoMatch from './views/NoMatch'
 import Nav from './components/Nav'
 import Footer from './components/Footer'
@@ -88,30 +85,18 @@ class App extends Component {
             <RouteWithMeta
               path='/'
               exact
-              component={Home}
+              component={Blog}
               description={siteDescription}
-              fields={this.getDocument('pages', 'home')}
+              siteTitle={siteTitle}
+              fields={this.getDocument('pages', 'blog')}
+              posts={posts}
+              postCategories={postCategories}
             />
             <RouteWithMeta
               path='/about/'
               exact
               component={About}
               fields={this.getDocument('pages', 'about')}
-            />
-            <RouteWithMeta
-              path='/contact/'
-              exact
-              component={Contact}
-              fields={this.getDocument('pages', 'contact')}
-              siteTitle={siteTitle}
-            />
-            <RouteWithMeta
-              path='/blog/'
-              exact
-              component={Blog}
-              fields={this.getDocument('pages', 'blog')}
-              posts={posts}
-              postCategories={postCategories}
             />
 
             {posts.map((post, index) => {
