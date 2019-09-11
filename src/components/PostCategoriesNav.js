@@ -6,15 +6,15 @@ import './PostCategoriesNav.css'
 
 const PostCategoriesNav = ({ categories }) => (
   <div className='container'>
-    <div className='PostCategoriesNav'>
-      <NavLink className='NavLink' exact to={`/blog/`}>
+    <div className='PostCategoriesNav' id='PostCategoriesNav'>
+      <NavLink className='NavLink' exact to={`/`}>
         All
       </NavLink>
       {categories.map((category, index) => (
         <NavLink
           className='NavLink'
           key={category.title + index}
-          to={`/blog/category/${slugify(category.title)}/`}
+          to={`/blog/category/${slugify(category.title)}/#PostCategoriesNav`}
         >
           {category.title}
         </NavLink>

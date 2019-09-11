@@ -14,7 +14,7 @@ const PageHeader = ({
 }) => {
   if (large) className += ' PageHeader-large'
   return (
-    <div className={`PageHeader relative ${className}`}>
+    <div className={`PageHeader relative ${className}`} id='PageHeader'>
       {backgroundImage && (
         <BackgroundImage src={backgroundImage} opacity={0.4} />
       )}
