@@ -6,19 +6,22 @@
 }
 
 .SinglePost--BackButton {
-  color: white;
+  color: #FAFAFA;
   position: relative;
   display: flex;
   align-items: center;
   font-weight: 600;
   text-decoration: none;
   letter-spacing: 0.1em;
+  text-shadow: 1px 1px 0 #333;
 }
 
 .SinglePost--BackButton svg {
   transition: transform 0.2s ease-out;
   transform: translateX(0);
   height: 1.2em;
+  -webkit-filter: drop-shadow( 0px 1px 0px #333 );
+  filter: drop-shadow( 0px 1px 0px #333 );
 }
 
 .SinglePost--BackButton:hover svg,

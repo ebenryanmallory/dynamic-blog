@@ -1,25 +1,33 @@
 import React from 'react'
-
-import Content from '../components/Content'
+import _sortBy from 'lodash/sortBy'
 import PageHeader from '../components/PageHeader'
-import './Home.css'
+import PostCategoriesNav from '../components/PostCategoriesNav'
+import PostSection from '../components/PostSection'
 
-export default ({ fields }) => {
-  const { title, subtitle, featuredImage, body } = fields
+import './Blog.css'
+
+export default ({
+  fields,
+  posts = [],
+  postCategories = [],
+  showFeatured = true
+}) => {
+  const { title, subtitle, featuredImage } = fields
+  posts = _sortBy(posts, ['date']).reverse()
+
   return (
-    <main className='Home'>
+    <main className='Blog'>
       <PageHeader
-        large
         title={title}
         subtitle={subtitle}
         backgroundImage={featuredImage}
       />
 
-      <div className='section'>
-        <div className='container'>
-          <Content source={body} />
-        </div>
-      </div>
+      {!!postCategories.length && (
+        <PostCategoriesNav categories={postCategories} />
+      )}
+
+      {!!posts.length && <PostSection posts={posts} />}
     </main>
   )
 }

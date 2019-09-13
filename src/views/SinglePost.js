@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { ChevronLeft } from 'react-feather'
-
 import Content from '../components/Content'
 import BackgroundImage from '../components/BackgroundImage'
 import { dateFormatted } from '../util/date'
@@ -20,7 +19,7 @@ export default ({ fields, nextPostURL, prevPostURL }) => {
       )}
 
       <div className='container skinny'>
-        <Link className='SinglePost--BackButton' to='/blog/'>
+        <Link className='SinglePost--BackButton' to='/'>
           <ChevronLeft /> BACK
         </Link>
         <div className='SinglePost--Content relative'>
