@@ -15,12 +15,12 @@ export default ({ fields }) => {
       />
       <div className='section'>
         <div className='container'>
-          <Content source={section1} />
+          <Content className='content' source={section1} />
         </div>
       </div>
       <div className='section'>
         <div className='container'>
-          <Content source={section2} />
+          <Content className='content' source={section2} />
         </div>
       </div>
     </div>
